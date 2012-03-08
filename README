@@ -1,0 +1,21 @@
+The Prometheus movie website has a blinking star that's showing Morse code as a hint to more teaser content.
+ Let's decode that blinking using computers, since I'm too lazy to learn Morse code but not so lazy as to write
+ a program to do it for me. It's not a perfect signal (looks like it was digitized from a source with a different
+ input frame rate as the animated GIF so we'll have to do some quantizing and massaging.
+
+References:
+https://www.weylandindustries.com/ (menu: About Us)
+http://forums.unfiction.com/forums/viewtopic.php?t=34138&start=120
+http://www.prometheusnews.net/movie/viral-mystery-1-solved/
+http://www.reddit.com/r/movies/comments/qlu6u/new_prometheus_image_star_map/
+
+Spoiler: 
+ This code produces the output 'EDIR6EQUJ5E' which is a hint to the path 
+ https://www.weylandindustries.com/6EQUJ5 which shows a nice concept painting of an Orrery, hopefully from the
+ upcoming movie. Only makes sense if you get the reference to http://en.wikipedia.org/wiki/Wow%21_signal
+
+Author:
+ Nathan Schmidt - github.com/hinathan
+
+License:
+ MIT
